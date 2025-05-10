@@ -32,6 +32,11 @@
 > - 自动过滤非USB设备事件
 > - 使用独立监控线程避免阻塞主程序
 > - 支持设备详细信息获取（厂商ID、产品ID等）
+>
+> 安装依赖：
+>
+> - windows：`pip install wmi`
+> - linux：`pip install pyudev`
 
 **windows演示：**
 
